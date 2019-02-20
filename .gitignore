@@ -1,3 +1,4 @@
 app/node_modules
 app/pub/config.json
 hallway_monitor/data/config.json
+arduino_project/data
